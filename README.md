@@ -16,6 +16,7 @@ Make the `App` a class component with `pressedKey` in the `state`.
     });
     ```
 - use `removeEventListener` to remove a global handler in `componentWillUnmount`.
+- 
 
 ## Instructions
 - Install Prettier Extention and use this [VSCode settings](https://mate-academy.github.io/fe-program/tools/vscode/settings.json) to enable format on save.
